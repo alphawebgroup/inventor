@@ -1,0 +1,9 @@
+{
+  "name": "inventor",
+  "description": "Inventor tools.",
+  "version": "1.0.0",
+  "devDependencies": {
+  },
+  "scripts": {
+  }
+}
