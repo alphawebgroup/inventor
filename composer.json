@@ -1,0 +1,16 @@
+{
+  "name": "alphalabs/inventor",
+  "type": "alpha-package-inventor",
+  "description": "Inventor package.",
+  "homepage": "http://alphawebgroup.com",
+  "license": "GPL-2.0+",
+  "authors": [
+    {
+      "name": "Alpha Web Group",
+      "homepage":"http://alphawebgroup.com"
+    }
+  ],
+  "repositories": [],
+  "require": { },
+  "require-dev": { }
+}
