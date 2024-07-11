@@ -44,7 +44,9 @@
   },
   "categories": {
     "Arrows": [
-      "accessibility-bold"
+      "accessibility-bold",
+      "accessibility-linear",
+      "accessibility-broken"
     ],
     "Notes": [
       "accessibility-bold-duotone",
